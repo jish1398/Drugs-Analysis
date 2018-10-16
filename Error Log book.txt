@@ -1,0 +1,4 @@
+WHAT IS UTF-8?
+
+UTF-8 is a compromise character encoding that can be as compact as ASCII (if the file is just plain English text) but can also contain any unicode characters (with some increase in file size).
+UTF stands for Unicode Transformation Format. The '8' means it uses 8-bit blocks to represent a character.
